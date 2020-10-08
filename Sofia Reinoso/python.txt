@@ -1,0 +1,4 @@
+lista= es un conjunto de datos que se identifica por corchetes, puedo variar sus valores a lo largo del programa
+tupla= una lista con corchetes, la tupla no puede cambiar sus valores
+diccionario= sirve para definir un "par clave valor", son dos valores que se corresponden con un parentesis; si quiero ver el valor de alguno de los elementos escribo el valor de la clave. Para agregar elementos simplemente escribo diccionario y la clave del valor que quiero agregar entre corchetes y lo = al valor que deseo que represente
+split la uso para recorrer la lista buscando un parametro y lo agrega a otra lista que yo desee
